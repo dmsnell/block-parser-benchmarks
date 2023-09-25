@@ -11,4 +11,4 @@ vendor/bin/phpbench run tests/*.php --report=aggregate --revs=3 --iterations=5
 
 ### Documents
 
-There is a small collection of testing documents in my dmsnell/gutenberg-document-library repo.
+There is a small collection of testing documents in my [dmsnell/gutenberg-document-library](https://github.com/dmsnell/gutenberg-document-library) repo.
